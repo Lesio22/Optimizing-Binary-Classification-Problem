@@ -14,7 +14,7 @@ The [WELFake](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classific
 TF-IDF Vectorization is implemented with 5,000 features, unigrams and bigrams, stop-word removal, and sublinear term frequency scaling. This produces a high-dimensional sparse feature space, well suited for studying optimizer behavior.
 
 ## Problem Setup
-I minimize the regularized logistic regression loss:
+Minimize the regularized logistic regression loss:
 - Objective: Negative log-likelihood + L2 regularization
 - Convex and strongly convex (guaranteed unique global optimum)
 - Optimization variables: weight vector (5,000D) and bias term
